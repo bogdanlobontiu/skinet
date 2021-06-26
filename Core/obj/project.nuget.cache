@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpNGqEaPjElTUYGopicfABTdf3Z3e2HV0Mhrz1wtrU0QBez5nbUC5A4dywWIV826ItyBjd2dUpKPgLooo8RQPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bogdan79Eazy\\Desktop\\Angular_dotNET\\skinet\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bogdan79Eazy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Bogdan79Eazy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

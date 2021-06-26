@@ -1,0 +1,12 @@
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+C:\Users\Bogdan79Eazy\Desktop\Angular_dotNET\skinet\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
